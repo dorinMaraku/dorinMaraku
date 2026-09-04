@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dorinMaraku
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning on Codecademy the Full-Stack Career Path...
-- 💞️ I’m looking to collaborate on projects relevant to this new career path of mine ...
-- 📫 How to reach me ... well on GitHub 
+- 👀 I’m interested in developing projects.
+- 📫 How to reach me? Well,on GitHub :)
 
 <!---
 dorinMaraku/dorinMaraku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
