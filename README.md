@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorinMaraku
-- 👀 I’m interested in developing projects.
-- 📫 How to reach me? Well,on GitHub :)
+- 👀 I’m interested in developing projects involving finance and operations.
+- 📫 How to reach me? Well, on GitHub :)
 
 <!---
 dorinMaraku/dorinMaraku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
